@@ -11,3 +11,5 @@ build for win 64
     cd C:\Qt\5.15.1\mingw81_64\bin
     windeployqt --qmldir C:\git\s4h-app-server\project\src C:\git\s4h-builds\win64\s4h-app-server.exe
     cd C:\git\s4h-builds\win64
+
+sdvSbdv
